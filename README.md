@@ -15,7 +15,7 @@ You're sections headers will be used to reference location of destinations.
 ### Demo
 
 #### Orignal Video Link 
-https://github.com/Tarun-yadav777/Motion_Detection_Tracking/blob/main/static/vtest.avi" 
+https://github.com/Tarun-yadav777/Motion_Detection_Tracking/blob/main/static/vtest.avi
 
 #### Detecting and Tracking Objects
 ![GIF](./static/gif.gif)
