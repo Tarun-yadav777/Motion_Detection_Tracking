@@ -14,8 +14,8 @@ You're sections headers will be used to reference location of destinations.
 
 ### Demo
 
-#### Orignal Images
-<img src="https://github.com/Tarun-yadav777/Image_Blending/blob/main/static/"  width="250" height="250" /><br>
+#### Orignal Video
+<img src="https://github.com/Tarun-yadav777/Motion_Detection_Tracking/blob/main/static/vtest.avi"  width="250" height="250" /><br>
 
 #### Detecting and Tracking Objects
 ![GIF](./static/gif.gif)
