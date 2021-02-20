@@ -15,9 +15,10 @@ You're sections headers will be used to reference location of destinations.
 ### Demo
 
 #### Orignal Images
+<img src="https://github.com/Tarun-yadav777/Image_Blending/blob/main/static/"  width="250" height="250" /><br>
 
-<img src="https://github.com/Tarun-yadav777/Image_Blending/blob/main/static/apple.jpg"  width="250" height="250" /><br>
-<img src="https://github.com/Tarun-yadav777/Image_Blending/blob/main/static/orange.jpg"  width="250" height="250" /><br>
+#### Detecting and Tracking Objects
+![GIF](./static/gif.gif)
 
 
 ---
